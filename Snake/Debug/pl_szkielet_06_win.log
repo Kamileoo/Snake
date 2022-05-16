@@ -1,0 +1,8 @@
+﻿  Board.cpp
+  main_file.cpp
+C:\Users\ambro\Desktop\Snake\main_file.cpp(175,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\ambro\Desktop\Snake\main_file.cpp(215,25): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\ambro\Desktop\Snake\main_file.cpp(232,35): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\ambro\Desktop\Snake\main_file.cpp(233,35): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+  Generowanie kodu...
+  pl_szkielet_06_win.vcxproj -> C:\Users\ambro\Desktop\Snake\Debug\pl_szkielet_06_win.exe

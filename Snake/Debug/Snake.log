@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (pl_szkielet_06_win.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Apple.cpp
+  Board2.cpp
+  cube.cpp
+  Game.cpp
+  lodepng.cpp
+  main_file.cpp
+C:\Users\ambro\OneDrive\School\Studia I\S4\Grafika komputerowa i wizualizacja - laboratorium\Projekt\Snake\main_file.cpp(170,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\ambro\OneDrive\School\Studia I\S4\Grafika komputerowa i wizualizacja - laboratorium\Projekt\Snake\main_file.cpp(204,20): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\ambro\OneDrive\School\Studia I\S4\Grafika komputerowa i wizualizacja - laboratorium\Projekt\Snake\main_file.cpp(210,25): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\ambro\OneDrive\School\Studia I\S4\Grafika komputerowa i wizualizacja - laboratorium\Projekt\Snake\main_file.cpp(227,35): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\ambro\OneDrive\School\Studia I\S4\Grafika komputerowa i wizualizacja - laboratorium\Projekt\Snake\main_file.cpp(228,35): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+  OBJReader.cpp
+  shaderprogram.cpp
+  Board.cpp
+  Snake.cpp
+  Text.cpp
+  Generowanie kodu...
+C:\Users\ambro\OneDrive\School\Studia I\S4\Grafika komputerowa i wizualizacja - laboratorium\Projekt\Snake\OBJReader.cpp(93): warning C4715: "loadOBJ”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\ambro\OneDrive\School\Studia I\S4\Grafika komputerowa i wizualizacja - laboratorium\Projekt\Snake\Game.cpp(57): warning C4715: "Game::getHead”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\ambro\OneDrive\School\Studia I\S4\Grafika komputerowa i wizualizacja - laboratorium\Projekt\Snake\Game.cpp(74): warning C4715: "Game::getForward”: niewszystkie ścieżki kodu zwracają wartość
+  Snake.vcxproj -> C:\Users\ambro\OneDrive\School\Studia I\S4\Grafika komputerowa i wizualizacja - laboratorium\Projekt\Snake\Debug\Snake.exe
